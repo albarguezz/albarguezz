@@ -5,7 +5,11 @@ I’m a Full Stack Software Developer with over 3 years of experience creating i
 
 📫 Connect with Me:
 
-[ ](https://linkedin.com/in/your-profile) * * [ ](https://yourportfolio.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
+  </a>
+</p>
 
 ------------------------------------
 
