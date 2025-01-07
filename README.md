@@ -4,7 +4,8 @@ I’m a Full Stack Software Developer with over 3 years of experience creating i
 
 
 📫 Connect with Me:
-alba.rodriguez.francisco@gmail.com
+
+[ ](https://linkedin.com/in/your-profile) * * [ ](https://yourportfolio.com)
 
 ------------------------------------
 
