@@ -12,11 +12,8 @@ I’m a Full Stack Software Developer with over 3 years of experience creating i
 
 📫 Connect with Me:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,gmail" />
-  </a>
-</p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/[ICON SLUG].svg" />
 
 ------------------------------------
 
