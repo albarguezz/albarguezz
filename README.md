@@ -6,7 +6,7 @@ I’m a Full Stack Software Developer with over 3 years of experience creating i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,django,postgres,sass,androidstudio,ansible,azure,docker,git" />
+    <img src="https://skillicons.dev/icons?i=vue,sass,css,figma,django,nodejs,postgres,androidstudio,azure,docker,git" />
   </a>
 </p>
 
